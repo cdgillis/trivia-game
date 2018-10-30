@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#startBtn {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#time-div {
+    font-size: 35px;
+}
+
+.submit {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
