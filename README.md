@@ -10,7 +10,11 @@ Once complete, your results will appear.
 
 Refresh the page to play again. 
 
+---
+
 **[Play Trivia Game](https://cdgillis.github.io/trivia-game/)**
+
+---
 
 Enjoy!
 
