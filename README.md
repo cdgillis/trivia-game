@@ -1,7 +1,5 @@
 # [Canadian Geography Trivia](https://cdgillis.github.io/trivia-game/)
 
----
-
 Press the **Start!** button to begin.
 
 You have **45 seconds** to answer five questions relating to Canadian geography. 
